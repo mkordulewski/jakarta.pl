@@ -2,5 +2,5 @@
 
 * Polish Jakarta website:
   * http://jakarta.pl/
-* Redirects to Jakarta website:
+* Based on main Jakarta website:
   * https://jakarta.ee/
