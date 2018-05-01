@@ -1,0 +1,4 @@
+RewriteEngine On
+
+RewriteCond %{HTTP_HOST} ^((.*)\.)?(jakarta\.pl)$ [NC]
+RewriteRule ^ https://jakarta.ee/ [R=302,L,NE]
